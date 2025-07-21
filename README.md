@@ -1,4 +1,4 @@
-**EDA de Resultados de cromatografía:** <br>
+**EDA de resultados de cromatografía:** <br>
 Para este análisis, se han empleado herramientas y librerías clave en ciencia de datos con Python: <br> 
 **Python:** Lenguaje principal para el análisis de datos. <br>
 **Pandas:** Librería esencial para la manipulación y análisis de datos tabulares (DataFrames).<br> 
