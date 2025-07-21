@@ -1,5 +1,5 @@
-EDA de Resultados de cromatografía:
-Este proyecto realiza un Análisis Exploratorio de Datos (EDA) de resultados de cromatografía simulados. Su objetivo es identificar patrones, tendencias y anomalías en los datos para mejorar el control de calidad y la optimización de procesos en laboratorio. 
+EDA de Resultados de cromatografía: <br>
+Este proyecto realiza un Análisis Exploratorio de Datos (EDA) de resultados de cromatografía simulados. Su objetivo es identificar patrones, tendencias y anomalías en los datos para mejorar el control de calidad y la optimización de procesos en laboratorio. <br>
 Herramientas y tecnologías utilizadas: Para este análisis, se han empleado herramientas y librerías clave en ciencia de datos con Python: 
 Python: Lenguaje principal para el análisis de datos. 
 Pandas: Librería esencial para la manipulación y análisis de datos tabulares (DataFrames). 
